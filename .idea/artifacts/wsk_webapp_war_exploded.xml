@@ -1,0 +1,21 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="wsk_webapp:war exploded">
+    <output-path>$PROJECT_DIR$/wsk_webapp/target/wsk_webapp</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="wsk_webapp" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="archive" name="wsk_commoc-1.0-SNAPSHOT.jar">
+            <element id="module-output" name="wsk_commoc" />
+          </element>
+        </element>
+      </element>
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/wsk_webapp/target/wsk_webapp/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="javaee-facet-resources" facet="wsk_webapp/web/Web" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wsk_commoc/wsk_commoc.iml" filepath="$PROJECT_DIR$/wsk_commoc/wsk_commoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsk_main.iml" filepath="$PROJECT_DIR$/wsk_main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wsk_webapp/wsk_webapp.iml" filepath="$PROJECT_DIR$/wsk_webapp/wsk_webapp.iml" />
+    </modules>
+  </component>
+</project>
