@@ -12,7 +12,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="wsk_commoc" target="1.7" />
-      <module name="wsk_main" target="1.7" />
+      <module name="wsk_main" target="1.8" />
       <module name="wsk_webapp" target="1.7" />
     </bytecodeTargetLevel>
   </component>
