@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 
 import com.lanying.dto.SysUser;
 import com.lanying.service.ISysUserService;
-
+//sss
 @Controller
 @RequestMapping("sysUser")
 public class SysUserController {
