@@ -21,8 +21,7 @@ public class SysUserController {
 	@RequestMapping("queryList.do")
 	public List<SysUser> queryList() {
 		//wskcnm
-		System.out.println("sssssss");
-        System.out.print("wskcnm");
+
 		return sysUserService.queryList();
 
 	}
