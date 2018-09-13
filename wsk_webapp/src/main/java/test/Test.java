@@ -1,7 +1,8 @@
 package test;
 
-import cn.hw.App;
 
-public class Test {
-    private App app;
+public class Test{
+    public static void main(String[] args) {
+        System.out.println("1111");
+    }
 }
