@@ -20,6 +20,7 @@ public class SysUserController {
 	@ResponseBody
 	@RequestMapping("queryList.do")
 	public List<SysUser> queryList() {
+		//wskcnm
 		return sysUserService.queryList();
 	}
 	//beer edit it 
