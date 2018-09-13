@@ -22,4 +22,5 @@ public class SysUserController {
 	public List<SysUser> queryList() {
 		return sysUserService.queryList();
 	}
+	//beer edit it 
 }
