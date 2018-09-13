@@ -11,7 +11,7 @@ import com.lanying.dto.SysUser;
 import com.lanying.service.ISysUserService;
 //sss
 @Controller
-@RequestMapping("sysUser")
+@RequestMapping("wsk")
 public class SysUserController {
 	
 	@Autowired
